@@ -1,8 +1,3 @@
-/**
- * 
- */
-/**
- * 
- */
 module aaa {
+	exports aaa;
 }
